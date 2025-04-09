@@ -2,7 +2,7 @@
 
 This project is built with Java,Spring Boot,PostgreSQL .The system provides Rest APIs for manage the collection of books and user for basic crud operation.
 
-__ TECH STACK🚀
+**TECH STACK**🚀
 
 * Language:Java
 * Framework:Spring Boot
@@ -11,40 +11,40 @@ __ TECH STACK🚀
 * ORM:JPA
 * API Testing:Postman
 
-__ FEATURES
+**FEATURES**
 * Add,update,delete and view books
 * Search books by title
 * filter book by category,rating,author
 
-__ API ENDPOINTS
+**API ENDPOINTS**
 
 * Add new book
-  __ POST /api/save
+  **POST /api/save**
 * Update book
-  __ PUT /api/update
+  **PUT /api/update**
 * Search book
-  __ GET /api/searchById
+  **GET /api/searchById**
 * Display books
-  __ GET /api/findAll
+  **GET /api/findAll**
 * Delete book
-  __ Delete /api/deleteById
+  **Delete /api/deleteById**
 
 
 
 
 
 
-using Postman API
+**using Postman API**
 ![GET](<image/Screenshot 2025-04-09 221735.png>) 
 ![POST](<image/Screenshot 2025-04-09 221735.png>)
 ![GET](<image/Screenshot 2025-04-09 222156.png>)
 
-In Postgresql
+**In Postgresql**
 
 ![BEFORE](<image/Screenshot 2025-04-09 223537.png>)
 ![AFTER](<image/Screenshot 2025-04-09 223547.png>)
 
-Web Page
+**Web Page**
 
 ![Login page](<image/Screenshot 2025-04-09 230019.png>)
 ![Home page](<image/Screenshot 2025-04-09 230031.png>)
